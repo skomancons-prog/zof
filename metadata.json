@@ -1,0 +1,6 @@
+{
+  "name": "Zof Group",
+  "description": "Ghana's premier multidisciplinary civil engineering contractor, certified timber trusses, Selflock® zero-leak roofing, bespoke POP interior decor, and civil engineering consultancy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
